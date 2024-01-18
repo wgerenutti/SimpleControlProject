@@ -1,0 +1,39 @@
+C:\Users\willi\source\repos\Simple Control Project\Simple Control Project\obj\Debug\net8.0\Simple Control Project.csproj.AssemblyReference.cache
+C:\Users\willi\source\repos\Simple Control Project\Simple Control Project\obj\Debug\net8.0\Simple Control Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\willi\source\repos\Simple Control Project\Simple Control Project\obj\Debug\net8.0\Simple Control Project.AssemblyInfoInputs.cache
+C:\Users\willi\source\repos\Simple Control Project\Simple Control Project\obj\Debug\net8.0\Simple Control Project.AssemblyInfo.cs
+C:\Users\willi\source\repos\Simple Control Project\Simple Control Project\obj\Debug\net8.0\Simple Control Project.csproj.CoreCompileInputs.cache
+C:\Users\willi\source\repos\Simple Control Project\Simple Control Project\obj\Debug\net8.0\Simple Control Project.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\willi\source\repos\Simple Control Project\Simple Control Project\obj\Debug\net8.0\Simple Control Project.RazorAssemblyInfo.cache
+C:\Users\willi\source\repos\Simple Control Project\Simple Control Project\obj\Debug\net8.0\Simple Control Project.RazorAssemblyInfo.cs
+C:\Users\willi\source\repos\Simple Control Project\Simple Control Project\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\willi\source\repos\Simple Control Project\Simple Control Project\bin\Debug\net8.0\appsettings.json
+C:\Users\willi\source\repos\Simple Control Project\Simple Control Project\bin\Debug\net8.0\Simple Control Project.staticwebassets.runtime.json
+C:\Users\willi\source\repos\Simple Control Project\Simple Control Project\bin\Debug\net8.0\Simple Control Project.exe
+C:\Users\willi\source\repos\Simple Control Project\Simple Control Project\bin\Debug\net8.0\Simple Control Project.deps.json
+C:\Users\willi\source\repos\Simple Control Project\Simple Control Project\bin\Debug\net8.0\Simple Control Project.runtimeconfig.json
+C:\Users\willi\source\repos\Simple Control Project\Simple Control Project\bin\Debug\net8.0\Simple Control Project.dll
+C:\Users\willi\source\repos\Simple Control Project\Simple Control Project\bin\Debug\net8.0\Simple Control Project.pdb
+C:\Users\willi\source\repos\Simple Control Project\Simple Control Project\bin\Debug\net8.0\Humanizer.dll
+C:\Users\willi\source\repos\Simple Control Project\Simple Control Project\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\willi\source\repos\Simple Control Project\Simple Control Project\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\willi\source\repos\Simple Control Project\Simple Control Project\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\willi\source\repos\Simple Control Project\Simple Control Project\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\willi\source\repos\Simple Control Project\Simple Control Project\bin\Debug\net8.0\MySqlConnector.dll
+C:\Users\willi\source\repos\Simple Control Project\Simple Control Project\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\willi\source\repos\Simple Control Project\Simple Control Project\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\willi\source\repos\Simple Control Project\Simple Control Project\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\willi\source\repos\Simple Control Project\Simple Control Project\obj\Debug\net8.0\staticwebassets\msbuild.Simple Control Project.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\willi\source\repos\Simple Control Project\Simple Control Project\obj\Debug\net8.0\staticwebassets\msbuild.build.Simple Control Project.props
+C:\Users\willi\source\repos\Simple Control Project\Simple Control Project\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Simple Control Project.props
+C:\Users\willi\source\repos\Simple Control Project\Simple Control Project\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Simple Control Project.props
+C:\Users\willi\source\repos\Simple Control Project\Simple Control Project\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\willi\source\repos\Simple Control Project\Simple Control Project\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\willi\source\repos\Simple Control Project\Simple Control Project\obj\Debug\net8.0\scopedcss\bundle\Simple Control Project.styles.css
+C:\Users\willi\source\repos\Simple Control Project\Simple Control Project\obj\Debug\net8.0\scopedcss\projectbundle\Simple Control Project.bundle.scp.css
+C:\Users\willi\source\repos\Simple Control Project\Simple Control Project\obj\Debug\net8.0\Simple Control Project.csproj.CopyComplete
+C:\Users\willi\source\repos\Simple Control Project\Simple Control Project\obj\Debug\net8.0\Simple Control Project.dll
+C:\Users\willi\source\repos\Simple Control Project\Simple Control Project\obj\Debug\net8.0\refint\Simple Control Project.dll
+C:\Users\willi\source\repos\Simple Control Project\Simple Control Project\obj\Debug\net8.0\Simple Control Project.pdb
+C:\Users\willi\source\repos\Simple Control Project\Simple Control Project\obj\Debug\net8.0\Simple Control Project.genruntimeconfig.cache
+C:\Users\willi\source\repos\Simple Control Project\Simple Control Project\obj\Debug\net8.0\ref\Simple Control Project.dll
